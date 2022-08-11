@@ -8,10 +8,10 @@
 
 
 -------------------------------------------------
-Pet Project on AWS: https://ec2-18-142-160-102.ap-southeast-1.compute.amazonaws.com:8000
+Pet Prọect: https://github.com/nghianinhnb/nasa-project
+
+-> Deploy on AWS: https://ec2-18-142-160-102.ap-southeast-1.compute.amazonaws.com:8000
 
 Docker Hub: https://hub.docker.com/u/nghianinhnb 
 
 LeetCode: https://leetcode.com/nghianinhnb/
-
-Profile Generator: https://gprm.itsvg.in
