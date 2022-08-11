@@ -1,4 +1,4 @@
-Pet Prọect: https://github.com/nghianinhnb/nasa-project
+Pet Project: https://github.com/nghianinhnb/nasa-project
 
 -> Deploy on AWS: https://ec2-18-142-160-102.ap-southeast-1.compute.amazonaws.com:8000
 
