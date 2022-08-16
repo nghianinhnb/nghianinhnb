@@ -1,6 +1,6 @@
 Pet Project: https://github.com/nghianinhnb/nasa-project
 
--> Deploy on AWS: https://ec2-54-179-72-89.ap-southeast-1.compute.amazonaws.com:8000/
+-> Deploy on AWS: https://ec2-54-179-72-89.ap-southeast-1.compute.amazonaws.com
 
 Docker Hub: https://hub.docker.com/u/nghianinhnb 
 
